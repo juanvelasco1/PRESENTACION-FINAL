@@ -1,0 +1,159 @@
+[
+  {
+    "nombre": "Rick and Morty",
+    "imagen": "https://raw.githubusercontent.com/HERNESTOPERE/TRABAJO-FINAL/main/banner.jpg",
+    "descripcion": "Rick and Morty es una innovadora serie animada que te sumerge en un viaje cósmico lleno de caos, aventuras interdimensionales y un humor ácido. Sigue las desventuras de Rick, un científico alcohólico de genio incomparable, y su nieto Morty, un adolescente ingenuo pero valiente. Juntos, exploran el vasto multiverso, saltando de realidad en realidad mientras enfrentan criaturas extraterrestres, versiones alternativas de sí mismos y dilemas éticos que desafían la imaginación.", 
+    "FAVORITOS": "false"
+  },
+  {
+    "nombre": "logo",
+    "imagen": "assets/logo.png",
+    "descripcion": "",
+    "FAVORITOS": "false"
+  },
+  {
+    "nombre": "logo",
+    "imagen": "assets/logo.png",
+    "descripcion": "",
+    "FAVORITOS": "false"
+  },
+  {
+    "nombre": "Breaking Bad",
+    "imagen": "https://raw.githubusercontent.com/HERNESTOPERE/TRABAJO-FINAL/main/bannerdd.jpg",
+    "descripcion": "Breaking Bad es un emocionante y adictivo thriller de crimen que te dejará sin aliento. Esta serie aclamada por la crítica te sumerge en el oscuro mundo de Walter White, un tranquilo profesor de química que, tras ser diagnosticado con cáncer, se adentra en el peligroso negocio de la fabricación y venta de metanfetaminas. A medida que Walter se sumerge en un submundo de violencia, ambición y engaños, su transformación de hombre común a temido narcotraficante es impresionante y aterradora. Con una narrativa tensa y giros impactantes, Breaking Bad te mantendrá al borde de tu asiento, preguntándote hasta dónde está dispuesto a llegar Walter para proteger a su familia y lograr su imperio criminal.",
+    "FAVORITOS": "false"
+  },
+  {
+    "nombre": "Luis Miguel",
+    "imagen": "https://raw.githubusercontent.com/HERNESTOPERE/TRABAJO-FINAL/main/large-movie1.jpg",
+    "descripcion": "Luis Miguel, la serie es un cautivador drama biográfico que te transportará a la vida y el legendario éxito del famoso cantante mexicano, Luis Miguel. A través de una narrativa envolvente, esta serie te lleva por un emocionante recorrido a lo largo de las décadas, desde la infancia de Luis Miguel hasta su ascenso a la fama y los altibajos de su vida personal y profesional. Con una combinación de música, romance y secretos revelados, cada episodio te dejará con ganas de más. ",
+    "FAVORITOS": "false"
+  },
+  {
+    "nombre": "8  Mile",
+    "imagen": "https://raw.githubusercontent.com/HERNESTOPERE/TRABAJO-FINAL/main/large-movie10.jpg",
+    "descripcion": "8 Mile es un poderoso drama que te sumerge en el mundo del rap y la lucha por la superación personal. Ambientada en el decadente ambiente de Detroit, esta película sigue la vida de Jimmy Smith Jr., un talentoso joven de clase trabajadora que sueña con convertirse en un rapero exitoso. A medida que Jimmy enfrenta desafíos en su vida personal y lucha por encontrar su voz en el competitivo mundo de las batallas de rap, la película explora temas universales como la identidad, la determinación y el poder de la música como forma de expresión. Con una actuación convincente de Eminem en su debut cinematográfico, 8 Mile te cautivará con su autenticidad y su retrato realista de las luchas y esperanzas de aquellos que se esfuerzan por alcanzar sus sueños.",
+    "FAVORITOS": "false"
+  },
+  {
+   "nombre": "PeakyBlinders",
+    "imagen": "https://raw.githubusercontent.com/HERNESTOPERE/TRABAJO-FINAL/main/large-movie11.jpg",
+    "descripcion": "Peaky Blinders es un cautivador drama de época que te transporta a las turbias calles de Birmingham, Inglaterra, en la década de 1920. Esta serie sigue las intrigas y las oscuras operaciones de los Peaky Blinders, una pandilla criminal encabezada por la carismática familia Shelby. Con su estilo distintivo y su astucia despiadada, los Shelby luchan por consolidar su poder en un mundo postguerra lleno de rivalidades, traiciones y peligros inesperados. A medida que los secretos y las conspiraciones se entrelazan, la serie te sumerge en una emocionante trama llena de giros sorprendentes y personajes memorables.",
+    "FAVORITOS": "false"
+  },
+  {
+    "nombre": "Scarface",
+    "imagen": "https://raw.githubusercontent.com/HERNESTOPERE/TRABAJO-FINAL/main/large-movie12.jpg",
+    "descripcion": "Scarface es un legendario y brutal drama criminal que te sumerge en las sombrías entrañas del bajo mundo de Miami. Esta película épica sigue la vida de Tony Montana, un inmigrante cubano decidido a hacerse un nombre en el mundo del narcotráfico. A medida que Tony asciende en las filas del poder y la riqueza, la película retrata su despiadado ascenso y su eventual caída en una espiral de violencia y ambición desmedida. Con una actuación icónica de Al Pacino, Scarface te transporta a una realidad de lujo decadente, traiciones mortales y la insaciable sed de poder.",
+    "FAVORITOS": "false"
+  },
+  {
+    "nombre": "One Peace",
+    "imagen": "https://raw.githubusercontent.com/HERNESTOPERE/TRABAJO-FINAL/main/large-movie13.jpg",
+    "descripcion": "One Piece es una emocionante y épica serie de anime que te transportará a un vasto mundo de aventuras y piratería. La historia sigue a Monkey D. Luffy, un joven intrépido y soñador que se embarca en una búsqueda para convertirse en el Rey de los Piratas. Acompañado por su leal tripulación, conocida como los Sombreros de Paja, Luffy se enfrenta a desafíos inimaginables, enemigos formidables y misterios ocultos mientras recorren los mares en busca del legendario tesoro conocido como el One Piece. Con un elenco colorido de personajes carismáticos, cada uno con su propia historia y habilidades únicas, One Piece te envuelve en un mundo lleno de acción, humor y emociones intensas. A medida que la serie se desarrolla, descubrirás el significado de la amistad, el valor de los sueños y la importancia de luchar por lo que crees.",
+    "FAVORITOS": "false"
+  },
+  {
+     "nombre": "Dragonball z",
+    "imagen": "https://raw.githubusercontent.com/HERNESTOPERE/TRABAJO-FINAL/main/large-movie14.jpg",
+    "descripcion": "Dragon Ball Z es una legendaria serie de anime que ha cautivado a generaciones con su acción épica y personajes icónicos. Ambientada en un mundo donde seres poderosos luchan por la supervivencia y la protección del universo, la serie sigue las aventuras de Goku y sus amigos mientras se enfrentan a enemigos formidables y desafíos sobrenaturales. Con una combinación perfecta de acción trepidante, poderes sobrehumanos y emociones intensas, Dragon Ball Z te transporta a un universo donde las batallas son épicas y las apuestas son altas. A medida que los personajes se enfrentan a pruebas que ponen a prueba su valentía y determinación, la serie explora temas profundos como el crecimiento personal, la amistad y la superación de los límites. ",
+    "FAVORITOS": "false"
+  },
+  {
+    "nombre": "The Walking Dead",
+    "imagen": "https://raw.githubusercontent.com/HERNESTOPERE/TRABAJO-FINAL/main/large-movie2.jpg",
+    "descripcion": "The Walking Dead es una serie de televisión cautivadora y llena de tensión que te sumerge en un mundo postapocalíptico plagado de zombies sedientos de carne humana. La historia sigue a un grupo de supervivientes liderado por el valiente y carismático Rick Grimes, mientras luchan por encontrar seguridad, enfrentan horrores inimaginables y buscan un rayo de esperanza en un mundo desolado. Con personajes complejos y convincentes, la serie explora las relaciones humanas en situaciones extremas, cuestionando la moralidad, la lealtad y la supervivencia en un entorno despiadado",
+    "FAVORITOS": "false"
+  },
+  {
+    "nombre": "Haunted Latin America",
+    "imagen": "https://raw.githubusercontent.com/HERNESTOPERE/TRABAJO-FINAL/main/large-movie3.jpg",
+    "descripcion": "Haunted Latin America es una escalofriante y fascinante serie de documentales que te adentra en las historias más aterradoras y paranormales de América Latina. Cada episodio te sumerge en una experiencia inmersiva mientras escuchas los testimonios reales de personas que han vivido encuentros sobrenaturales y enfrentado fenómenos inexplicables en diferentes países latinoamericanos. Desde apariciones fantasmales en antiguas mansiones embrujadas hasta encuentros con criaturas míticas y leyendas urbanas que se niegan a ser olvidadas",
+    "FAVORITOS": "false"
+  },
+  {
+    "nombre": "Who killed Sara",
+    "imagen": "https://raw.githubusercontent.com/HERNESTOPERE/TRABAJO-FINAL/main/large-movie4.jpg",
+    "descripcion": "Who Killed Sara es un adictivo thriller lleno de misterio que te sumerge en una oscura trama de venganza y secretos familiares. La serie sigue a Alex Guzmán, quien ha pasado 18 años en prisión por un crimen que no cometió: el asesinato de su hermana Sara. Determinado a descubrir la verdad y vengarse de aquellos que lo traicionaron, Alex se sumerge en un peligroso laberinto de intriga y engaño. ",
+    "FAVORITOS": "false"
+  },
+  {
+    "nombre": "Cobra Kai",
+    "imagen": "https://raw.githubusercontent.com/HERNESTOPERE/TRABAJO-FINAL/main/large-movie5.jpg",
+    "descripcion": "Cobra Kai es una serie adictiva y llena de nostalgia que te transporta de vuelta al emocionante mundo de Karate Kid. Ambientada décadas después de los eventos de la película original, la serie sigue las vidas entrelazadas de Daniel LaRusso y Johnny Lawrence, quienes ahora son adultos y se encuentran liderando sus propias vidas. Cuando Johnny reabre el dojo Cobra Kai, despierta una rivalidad que se reaviva y redefine a medida que los estudiantes de ambas academias se enfrentan en una batalla épica.",
+    "FAVORITOS": "false"
+  },
+  {
+    "nombre": "Elite",
+    "imagen": "https://raw.githubusercontent.com/HERNESTOPERE/TRABAJO-FINAL/main/large-movie6.jpg",
+    "descripcion": "Élite es una serie de drama juvenil que te sumerge en un mundo de intrigas, secretos y rivalidades en un prestigioso colegio privado en España. La historia sigue a un grupo diverso de estudiantes que se ven envueltos en un turbulento asesinato que sacude la comunidad escolar y desencadena una serie de eventos impactantes. Con su enfoque en las dinámicas sociales, el amor y la lucha por el poder, Élite explora temas relevantes y controvertidos mientras muestra los contrastes entre diferentes clases sociales.",
+    "FAVORITOS": "false"
+  },
+  {
+     "nombre": "Transformers War for Cybertron Trilogy Siege ",
+    "imagen": "https://raw.githubusercontent.com/HERNESTOPERE/TRABAJO-FINAL/main/large-movie7.jpg",
+    "descripcion": "Transformers War for Cybertron Trilogy Siege es una emocionante serie animada que te sumerge en una guerra intergaláctica de proporciones épicas. La historia tiene lugar en el planeta Cybertron, donde los Autobots y los Decepticons, dos facciones en conflicto, luchan por el control de su mundo natal. Ambientada en una atmósfera oscura y desolada, Siege sigue la lucha desesperada de los Autobots liderados por Optimus Prime para proteger a Cybertron de la malvada amenaza de los Decepticons encabezados por Megatron.",
+    "FAVORITOS": "false"
+  },
+  {
+    "nombre": "The Umbrella Academy",
+    "imagen": "https://raw.githubusercontent.com/HERNESTOPERE/TRABAJO-FINAL/main/large-movie8.jpg",
+    "descripcion": "The Umbrella Academy es una serie fascinante y llena de misterio que te transporta a un mundo lleno de superhéroes disfuncionales y eventos extraordinarios. Basada en la exitosa novela gráfica, la historia sigue a un grupo de individuos extraordinarios que fueron adoptados por un millonario excéntrico y entrenados para salvar el mundo. Sin embargo, tras años de separación, los hermanos se reúnen cuando la muerte de su padre adoptivo los convoca una vez más. A medida que enfrentan la amenaza del apocalipsis, deben enfrentar no solo a los enemigos externos, sino también a sus propios demonios internos y las complejidades de sus relaciones fracturadas. ",
+    "FAVORITOS": "false"
+  },
+  {
+    "nombre": "Black mirror",
+    "imagen": "https://raw.githubusercontent.com/HERNESTOPERE/TRABAJO-FINAL/main/large-movie9.jpg",
+    "descripcion": "Black Mirror es una serie fascinante y provocativa que te sumerge en un futuro cercano donde la tecnología ha permeado todos los aspectos de nuestras vidas. Cada episodio independiente explora una historia distinta y nos muestra los peligros y las consecuencias inesperadas de nuestro amor por la tecnología y la obsesión por la conectividad. Con una mirada oscura y satírica, Black Mirror examina temas como la dependencia de las redes sociales, la inteligencia artificial, la realidad virtual y el impacto de la tecnología en nuestras relaciones humanas. ",
+    "FAVORITOS": "false"
+  },
+  {
+    "nombre": "Mortal Combat",
+    "imagen": "https://raw.githubusercontent.com/HERNESTOPERE/TRABAJO-FINAL/main/small-movie1.jpg",
+    "descripcion": "Mortal Kombat es una película de acción trepidante y emocionante que te lleva a un mundo de peleas épicas y habilidades sobrehumanas. Basada en el popular videojuego, la historia sigue a un grupo de guerreros elegidos para luchar en un torneo místico donde los reinos se enfrentan en una batalla por la supremacía. Con coreografías de lucha impresionantes y efectos visuales espectaculares, la película te sumerge en un universo lleno de personajes icónicos y sangrientas batallas. ",
+    "FAVORITOS": "false"
+  },
+  {
+    "nombre": "Tomclancy sin remordimientos",
+    "imagen": "https://raw.githubusercontent.com/HERNESTOPERE/TRABAJO-FINAL/main/small-movie2.jpg",
+    "descripcion": "Tom Clancy sin remordimientos es un emocionante thriller de acción que te sumerge en un mundo de intriga, traición y venganza. Basada en la famosa novela de Tom Clancy, la película sigue la historia del hábil Navy SEAL John Clark, quien se embarca en una misión personal de justicia después de que su equipo es emboscado y su familia se convierte en un blanco. Con su combinación explosiva de secuencias de combate intensas, persecuciones de alto octanaje y giros sorprendentes, sin remordimientos te lleva al límite mientras acompañas a John Clark en su peligrosa búsqueda de la verdad.",
+    "FAVORITOS": "false"
+  },
+  {
+    "nombre": "Godzilla vs Kong",
+    "imagen": "https://raw.githubusercontent.com/HERNESTOPERE/TRABAJO-FINAL/main/small-movie3.jpg",
+    "descripcion": "Godzilla vs Kong es una épica película de monstruos que te sumerge en una batalla colosal entre dos titanes legendarios. En esta entrega emocionante y llena de acción del Monsterverse, Godzilla y Kong se enfrentan en una batalla épica que sacude los cimientos del mundo. Con efectos visuales impresionantes y escenas de acción cargadas de adrenalina, la película te transporta a un universo donde la humanidad debe presenciar el enfrentamiento definitivo entre estas poderosas criaturas. ",
+    "FAVORITOS": "false"
+  },
+  {
+    "nombre": "La familia Mitchell vs las maquinas",
+    "imagen": "https://raw.githubusercontent.com/HERNESTOPERE/TRABAJO-FINAL/main/small-movie4.jpg",
+    "descripcion": "La familia Mitchell vs las máquinas es una película de animación llena de aventura y diversión que te sumerge en un viaje cómico y conmovedor protagonizado por una peculiar familia. Cuando una revolución tecnológica amenaza con tomar el control del mundo, la familia Mitchell se convierte en la última esperanza de la humanidad. Con su humor ingenioso, personajes entrañables y un mensaje conmovedor sobre la importancia de la conexión humana, la película combina una animación vibrante con una narrativa emocionante. ",
+    "FAVORITOS": "false"
+  },
+  {
+    "nombre": "Falcon y el soldado del invierno",
+    "imagen": "https://raw.githubusercontent.com/HERNESTOPERE/TRABAJO-FINAL/main/small-movie5.jpg",
+    "descripcion": "Falcon y el Soldado del Invierno es una serie de superhéroes llena de acción y emociones que te sumerge en un mundo de intriga y redención. Después de los eventos de Avengers Endgame, la serie sigue la historia de Sam Wilson, también conocido como Falcon, y Bucky Barnes, el Soldado del Invierno, mientras se enfrentan a nuevas amenazas y exploran su propio legado. Con efectos especiales impresionantes y secuencias de acción trepidantes, la serie te mantiene al borde de tu asiento mientras los dos héroes se unen para enfrentar una conspiración que amenaza con desestabilizar el mundo. ",
+    "FAVORITOS": "false"
+  },
+  {
+    "nombre": "Nomad Land",
+    "imagen": "https://raw.githubusercontent.com/HERNESTOPERE/TRABAJO-FINAL/main/small-movie6.jpg",
+    "descripcion": "Nomadland es una película conmovedora y contemplativa que te transporta a un viaje íntimo por la vida nómada en Estados Unidos. A través de la historia de Fern, una mujer que decide dejar atrás una vida convencional y emprender un camino de libertad y autodescubrimiento, la película te sumerge en un retrato evocador de la América moderna y las personas que eligen vivir en las carreteras. Con una narrativa poética y una actuación impresionante de Frances McDormand, Nomadland te invita a explorar la belleza y la soledad de los vastos paisajes, mientras te sumerges en las historias de aquellos que han sido marginados por el sistema y buscan un sentido de pertenencia y conexión.",
+    "FAVORITOS": "false"
+  },
+  {
+    "nombre": "Nadie",
+    "imagen": "https://raw.githubusercontent.com/HERNESTOPERE/TRABAJO-FINAL/main/small-movie7.jpg",
+    "descripcion": "Nadie es una película de acción llena de adrenalina que te lleva en un viaje de venganza implacable y sorpresas explosivas. La historia sigue a Hutch Mansell, un hombre aparentemente común y corriente que vive una vida monótona y rutinaria. Pero cuando una serie de eventos desencadenan su furia interior, Hutch se convierte en una fuerza letal que no se detendrá ante nada para proteger a su familia y buscar justicia.  ",
+    "FAVORITOS": "false"
+  },
+  {
+    "nombre": "Demon Slayer Kimetsu no Yaiba",
+    "imagen": "https://raw.githubusercontent.com/HERNESTOPERE/TRABAJO-FINAL/main/small-movie8.jpg",
+    "descripcion": "Demon Slayer Kimetsu no Yaiba es una cautivadora serie de anime que te transporta a un mundo oscuro y sobrenatural lleno de demonios sedientos de sangre y valientes cazadores dispuestos a enfrentarlos. La historia sigue a Tanjiro Kamado, un joven que se convierte en un cazador de demonios después de que su familia es brutalmente asesinada por estas criaturas malvadas. Con una animación impresionante y una narrativa emocionalmente intensa, la serie te sumerge en un viaje épico en el que Tanjiro se embarca para vengar a sus seres queridos y salvar a su hermana, quien ha sido transformada en un demonio. ",
+    "FAVORITOS": "false"
+  }
+
+]
